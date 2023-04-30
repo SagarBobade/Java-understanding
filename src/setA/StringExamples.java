@@ -18,5 +18,6 @@ public class StringExamples {
 		System.out.println("Replace letter 'Java' with 'JAVA' "+ displayString.replace("Java", "JAVA"));
 		System.out.println("Get the substring from value: "+ displayString.substring(10, 15));
 		System.out.println("Trim the value to use it further: "+ displayString.trim());
+		
 	}
 }
