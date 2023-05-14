@@ -18,5 +18,6 @@ Examples
 
 Coming soon...
 * Exception handeling
+* Interface
 * Collection framework
 * File handeling
