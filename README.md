@@ -15,9 +15,9 @@ Examples
 9. [Inheritance](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/Inheritance.java)
 10. [Polymorphism](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/Polymorphism.java)
 11. [Final keyword](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/FinalKeyword.java)
+12. [Exception handeling](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/ExceptionHandeling.java)
 
 Coming soon...
-* Exception handeling
 * Interface
 * Collection framework
 * File handeling
