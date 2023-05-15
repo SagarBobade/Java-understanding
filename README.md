@@ -1,5 +1,5 @@
 # Java-understanding
-Java understanding to learn Appium.
+Java understanding to learn Selenium or Appium.
 
 
 Examples
