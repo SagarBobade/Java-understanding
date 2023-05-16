@@ -19,6 +19,7 @@ Examples
 13. [Collection framework](https://github.com/SagarBobade/Java-understanding/tree/master/src/collectionFramework)
    * [List](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/ListExample.java)
    * [Set](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/SetExample.java)
+   * [Map](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/MapExample.java)
 
 Coming soon...
 * Interface
