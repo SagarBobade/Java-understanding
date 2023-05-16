@@ -36,6 +36,7 @@ public class SetExample {
 		int sizeOfSet = set.size();
 		System.out.println("Size of set is: " + sizeOfSet);
 
+		// Check if given value is present in list or not
 		Boolean b = set.contains("sagar");
 		if (b == true) {
 			System.out.println("Yes");
