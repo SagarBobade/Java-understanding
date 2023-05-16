@@ -16,9 +16,12 @@ Examples
 10. [Polymorphism](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/Polymorphism.java)
 11. [Final keyword](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/FinalKeyword.java)
 12. [Exception handeling](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/ExceptionHandeling.java)
+13. [Collection framework](https://github.com/SagarBobade/Java-understanding/tree/master/src/collectionFramework)
+   * [List](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/ListExample.java)
+   * [Set](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/SetExample.java)
 
 Coming soon...
 * Interface
-* Collection framework
+* More Collection framework examples
 * For each loop
 * File handeling
