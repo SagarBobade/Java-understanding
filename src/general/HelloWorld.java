@@ -1,4 +1,4 @@
-package setA;
+package general;
 
 public class HelloWorld {
 

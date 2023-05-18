@@ -15,7 +15,7 @@ public class ListExample {
 
 	public static void main(String[] args) {
 
-		// Object creation of ArrayList
+		// Creating Object of ArrayList
 		List<String> list = new ArrayList<>();
 
 		// Append elements in list
@@ -66,7 +66,7 @@ public class ListExample {
 		for (String element : list) {
 			System.out.println(element);
 		}
-		
+
 		list.clear();
 		System.out.println(list);
 
