@@ -1,4 +1,4 @@
-package setA;
+package general;
 
 // final class can not be extended
 final class PatientInfo{

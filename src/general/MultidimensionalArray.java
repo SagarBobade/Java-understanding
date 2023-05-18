@@ -1,4 +1,4 @@
-package setA;
+package general;
 
 import java.util.Scanner;
 
@@ -30,6 +30,14 @@ public class MultidimensionalArray {
 				System.out.print(arr[i][j]+" ");
 			}
 			System.out.println();
+		}
+		
+		System.out.println("------------------------------------");
+		// Using foreach loop for 2 dimensional array
+		for (int[] is : arr) {
+			for (int is2 : is) {
+				System.out.println(is2);				
+			}
 		}
 		
 	}

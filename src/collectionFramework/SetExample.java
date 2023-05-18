@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /*
-Set is an interface that extends the Collection interface
-Unique elements
-No Specific Order
+* Set is an interface that extends the Collection interface
+* Unique elements
+* No Specific Order
 */
 public class SetExample {
 
