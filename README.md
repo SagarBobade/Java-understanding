@@ -4,8 +4,8 @@ Java understanding to learn Selenium or Appium.
 
 Examples
 
-1. [Hello world](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/HelloWorld.java)
-2. [Data types](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/DataTypes.java)
+1. [Hello world](https://github.com/SagarBobade/Java-understanding/blob/master/src/general/HelloWorld.java)
+2. [Data types](https://github.com/SagarBobade/Java-understanding/blob/master/src/general/DataTypes.java)
 3. [String](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/StringExamples.java)
 4. [Arrays](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/ArraysExample.java)
 5. [MultiDimensional Array](https://github.com/SagarBobade/Java-understanding/blob/master/src/setA/MultidimensionalArray.java)
