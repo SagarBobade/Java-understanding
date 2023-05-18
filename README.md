@@ -24,5 +24,4 @@ Examples
 Coming soon...
 * Interface
 * More Collection framework examples
-* For each loop
 * File handeling
