@@ -20,6 +20,4 @@ Examples
    * [List](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/ListExample.java)
    * [Set](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/SetExample.java)
    * [Map](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/MapExample.java)
-
-Coming soon...
-* File handeling
+14. [File handeling](https://github.com/SagarBobade/Java-understanding/blob/master/src/general/TextFileOperations.java)
