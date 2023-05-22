@@ -22,6 +22,4 @@ Examples
    * [Map](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/MapExample.java)
 
 Coming soon...
-* Interface
-* More Collection framework examples
 * File handeling
