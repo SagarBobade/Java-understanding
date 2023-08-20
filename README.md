@@ -21,3 +21,5 @@ Examples
    * [Set](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/SetExample.java)
    * [Map](https://github.com/SagarBobade/Java-understanding/blob/master/src/collectionFramework/MapExample.java)
 14. [File handeling](https://github.com/SagarBobade/Java-understanding/blob/master/src/general/TextFileOperations.java)
+15. [Few programs on String](https://github.com/SagarBobade/Java-understanding/tree/master/src/strings)
+16. [Few porgrams on Numbers](https://github.com/SagarBobade/Java-understanding/tree/master/src/numbers)
