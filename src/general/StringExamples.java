@@ -15,8 +15,9 @@ public class StringExamples {
 		System.out.println("Check if it starts with 'hey "+ displayString.startsWith("hey"));
 		System.out.println("Check if it ends with 'YOU..!! "+ displayString.endsWith("you..!!".toLowerCase()));
 		System.out.println("Check at which index Java is: "+ displayString.indexOf("Java"));
+		System.out.println("Check which character is at particular index: "+ displayString.charAt(4));
 		System.out.println("Replace letter 'Java' with 'JAVA' "+ displayString.replace("Java", "JAVA"));
 		System.out.println("Get the substring from value: "+ displayString.substring(10, 15));
-		System.out.println("Trim the value to use it further: "+ displayString.trim());
+		System.out.println("Trim the value to use it further: "+ displayString.trim());		
 	}
 }

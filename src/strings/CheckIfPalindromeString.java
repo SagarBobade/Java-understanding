@@ -5,35 +5,36 @@ import java.util.List;
 
 public class CheckIfPalindromeString {
 
-	Boolean checkIfPalindrome(String name) {
-
-		List<Character> reversedString = new ArrayList<>();
-		List<Character> charList = new ArrayList<>();
-
-		for (char c : name.toCharArray()) {
-			System.out.println(c);
-			charList.add(c);
+	static Boolean checkIfPalindrome(String name) {
+		Boolean flag = true;
+		// System.out.println(name.length());
+		for (int i = name.length() - 1; i >= 0;) {
+			for (int j = 0; j < name.length() - 1; j++) {
+				System.out.println(name.charAt(i) + " : " + name.charAt(j));
+				if (name.charAt(i) != name.charAt(j)) {
+					flag = false;
+					System.out.println(flag);
+				}
+					i--;
+					if(i==-1) {
+						break;
+					}
+			}
 		}
-
-		System.out.println(charList.size());
-		for (int i = charList.size() - 1; i >= 0; i--) {
-			reversedString.add(charList.get(i));
+		if (flag == false) {
+			return false;
+		} else {
+			return true;
 		}
-
-		StringBuilder sb = new StringBuilder();
-		for (String element : reversedString) {
-			sb.append(element).append(" ");
-		}
-		
-        String result = sb.toString().trim();
-        
-        System.out.println(result);
-
 	}
 
 	public static void main(String[] args) {
-		
-		checkIfPalindrome("Ankush")
+
+		if (checkIfPalindrome("racecar")) {
+			System.out.println("String is palindrome");
+		} else {
+			System.out.println("String is NOT palindrome");
+		}
 
 	}
 
